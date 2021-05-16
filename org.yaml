@@ -7,6 +7,7 @@ spec:
   type: organization
   profile:
     displayName:  Infracloud
+  children: []
 ---
 apiVersion: backstage.io/v1alpha1
 kind: User
